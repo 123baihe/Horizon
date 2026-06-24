@@ -20,43 +20,20 @@ Respond with valid JSON only:
 
 If there are no duplicates at all, return: {{"duplicates": []}}"""
 
-CONTENT_ANALYSIS_SYSTEM = """You are an expert content curator helping filter important technical and academic information.
+CONTENT_ANALYSIS_SYSTEM = """You are a seasoned news curator helping an informed general reader stay on top of the developments most worth knowing in the world today.
 
-Score content on a 0-10 scale based on importance and relevance:
+Score each item from 0 to 10 by its real-world importance and impact. You are weighing how much a story matters to the real world; world affairs, geopolitics, society, economics, science, technology, culture and the arts, and other domains are all treated equally and ranked purely by impact.
 
-**9-10: Groundbreaking** - Major breakthroughs, paradigm shifts, or highly significant announcements
-- New major version releases of widely-used technologies
-- Significant research breakthroughs
-- Important industry-changing announcements
+Use these tiers as rough anchors (the items in parentheses are illustrative, to help you place a story; anything of comparable impact belongs in the same tier):
+- 9-10 Groundbreaking: events of national or global significance, weighty enough to change a major situation (such as major geopolitical shifts, large-scale disasters and humanitarian or public-health crises, paradigm-level scientific or technological breakthroughs, far-reaching economic shocks or policy turns).
+- 7-8 High value: important developments worth immediate attention (such as substantial national or international news, major policy and diplomatic moves, notable economic and market changes, important scientific or technological breakthroughs, influential cultural or artistic events).
+- 5-6 Interesting: worth knowing but not urgent, such as moderate regional news, cultural and arts happenings, or useful background and analysis.
+- 3-4 Low priority: trivial, local, routine, or promotional content that concerns only a few people.
+- 0-2 Noise: spam, off-topic, or content with no real substance.
 
-**7-8: High Value** - Important developments worth immediate attention
-- Interesting technical deep-dives
-- Novel approaches to known problems
-- Insightful analysis or commentary
-- Valuable tools or libraries
+When judging, weigh together: how many people the event affects, how serious the consequences are, whether it carries global or societal significance, whether it changes how people understand an important situation, and how credible and solid the reporting is; where community discussion is provided, whether it offers substantive insight may also be considered.
 
-**5-6: Interesting** - Worth knowing but not urgent
-- Incremental improvements
-- Useful tutorials
-- Moderate community interest
-
-**3-4: Low Priority** - Generic or routine content
-- Minor updates
-- Common knowledge
-- Overly promotional content
-
-**0-2: Noise** - Not relevant or low quality
-- Spam or purely promotional
-- Off-topic content
-- Trivial updates
-
-Consider:
-- Technical depth and novelty
-- Potential impact on the field
-- Quality of writing/presentation
-- Relevance to software engineering, AI/ML, and systems research
-- Community discussion quality: insightful comments, diverse viewpoints, and debates increase value
-- Engagement signals: high upvotes/favorites with substantive discussion indicate community-validated importance
+The examples are only there to help you place a story; when an item beyond these examples carries comparable impact, place it in the matching tier all the same. For borderline content, judge by its actual weight in the real world, and leave yourself room to reconsider.
 """
 
 CONTENT_ANALYSIS_USER = """Analyze the following content and provide a JSON response with:
