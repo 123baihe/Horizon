@@ -3,7 +3,7 @@
   "ai": {
     "provider": "openai",
     "base_url": "https://api.deepseek.com",
-    "model": "deepseek-v4-pro",
+    "model": "deepseek-v4-flash",
     "api_key_env": "OPENAI_API_KEY",
     "languages": ["zh"],
     "temperature": 0.3,
