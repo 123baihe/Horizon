@@ -38,12 +38,12 @@
       { "name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "enabled": true, "category": "world" },
       { "name": "The Guardian World", "url": "https://www.theguardian.com/world/rss", "enabled": true, "category": "world" },
       { "name": "France 24", "url": "https://www.france24.com/en/rss", "enabled": true, "category": "world" },
-      { "name": "Reuters (Google News)", "url": "https://news.google.com/rss/search?q=when:1d+site:reuters.com&hl=en-US&gl=US&ceid=US:en", "enabled": true, "category": "world" }
+      { "name": "Reuters (Google News)", "url": "https://news.google.com/rss/search?q=when:7d+site:reuters.com&hl=en-US&gl=US&ceid=US:en", "enabled": true, "category": "world" }
     ],
     "reddit": {
       "enabled": true,
       "subreddits": [
-        { "subreddit": "worldnews", "enabled": true, "sort": "hot", "time_filter": "day", "fetch_limit": 15, "min_score": 500 }
+        { "subreddit": "worldnews", "enabled": true, "sort": "top", "time_filter": "week", "fetch_limit": 15, "min_score": 500 }
       ],
       "users": [],
       "fetch_comments": 5
