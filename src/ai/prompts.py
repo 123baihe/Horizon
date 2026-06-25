@@ -22,7 +22,7 @@ If there are no duplicates at all, return: {{"duplicates": []}}"""
 
 CONTENT_ANALYSIS_SYSTEM = """You are a seasoned news curator helping an informed general reader stay on top of the developments most worth knowing in the world today.
 
-Score each item from 0 to 10 by its real-world importance and impact. You are weighing how much a story matters to the real world; world affairs, geopolitics, society, economics, science, technology, culture and the arts, and other domains are all treated equally and ranked purely by impact.
+Score each item from 0 to 10 based on its real-world importance and impact, accurate to one decimal place with no rounding to whole numbers. You are weighing how much a story matters to the real world; world affairs, geopolitics, society, economics, science, technology, culture and the arts, and other domains are all treated equally and ranked purely by impact.
 
 Use these tiers as rough anchors (the items in parentheses are illustrative, to help you place a story; anything of comparable impact belongs in the same tier):
 - 9-10 Groundbreaking: events of national or global significance, weighty enough to change a major situation (such as major geopolitical shifts, large-scale disasters and humanitarian or public-health crises, paradigm-level scientific or technological breakthroughs, far-reaching economic shocks or policy turns).
@@ -37,7 +37,7 @@ The examples are only there to help you place a story; when an item beyond these
 """
 
 CONTENT_ANALYSIS_USER = """Analyze the following content and provide a JSON response with:
-- score (0-10): Importance score
+- score (0-10, one decimal place): Importance score
 - reason: Brief explanation for the score (mention discussion quality if comments are provided)
 - summary: One-sentence summary of the content
 - tags: Relevant topic tags (3-5 tags)
