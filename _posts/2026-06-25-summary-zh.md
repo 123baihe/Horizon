@@ -5,398 +5,386 @@ date: 2026-06-25
 lang: zh
 ---
 
-> 从 242 条内容中筛选出 25 条重要资讯。
+> 从 525 条内容中筛选出 25 条重要资讯。
 
 ---
 
-1. [委内瑞拉发生两次大地震，数千人恐遇难](#item-1) ⭐️ 9.0/10
-2. [普京承认乌克兰袭击克里米亚，要求加强防御](#item-2) ⭐️ 9.0/10
-3. [委内瑞拉地震致至少 164 人死亡，全球反应](#item-3) ⭐️ 8.5/10
-4. [委内瑞拉地震后救援人员搜寻幸存者](#item-4) ⭐️ 8.5/10
-5. [委内瑞拉遭遇致命 7.5 级地震后宣布紧急状态](#item-5) ⭐️ 8.5/10
-6. [委内瑞拉遭遇双震，164 人死亡](#item-6) ⭐️ 8.5/10
-7. [委内瑞拉接连发生两次强震，超 160 人遇难](#item-7) ⭐️ 8.5/10
-8. [伊朗革命卫队拒绝霍尔木兹新航线；鲁比奥将会见海湾国家领导人](#item-8) ⭐️ 8.2/10
-9. [委内瑞拉民众讲述致命地震恐怖经历](#item-9) ⭐️ 8.2/10
-10. [美伊协议可能让内塔尼亚胡成为最大输家](#item-10) ⭐️ 8.2/10
-11. [国际刑事法院建议解雇检察官卡里姆·汗](#item-11) ⭐️ 8.2/10
-12. [OpenAI 与博通联合发布首款定制 AI 芯片'Jalapeño'](#item-12) ⭐️ 8.0/10
-13. [联合国核机构负责人称将作为协议一部分视察伊朗核设施](#item-13) ⭐️ 8.0/10
-14. [乌克兰推进使战争波及俄罗斯本土，普京暗示和谈](#item-14) ⭐️ 8.0/10
-15. [中东供应增加，油价回到战前水平](#item-15) ⭐️ 8.0/10
-16. [油价跌至伊朗战争前水平，油轮驶离霍尔木兹海峡](#item-16) ⭐️ 8.0/10
-17. [斯塔默承诺平稳过渡到伯纳姆政府](#item-17) ⭐️ 8.0/10
-18. [高通以 40 亿美元收购 AI 软件初创公司 Modular](#item-18) ⭐️ 8.0/10
-19. [委内瑞拉发生 7.1 级地震](#item-19) ⭐️ 8.0/10
-20. [万斯在瑞士度假村与伊朗直接会谈](#item-20) ⭐️ 7.8/10
-21. [肯尼亚部长在藐视法庭裁决后叫停美国埃博拉设施](#item-21) ⭐️ 7.8/10
-22. [委内瑞拉地震死亡人数升至 164 人，救援持续](#item-22) ⭐️ 7.8/10
-23. [Fortescue 因偏远矿区性骚扰面临集体诉讼](#item-23) ⭐️ 7.8/10
-24. [以色列前领导人威胁就'犹太恐怖主义'采取法律行动](#item-24) ⭐️ 7.8/10
-25. [欧盟因在布鲁塞尔接待塔利班代表团面临强烈反对](#item-25) ⭐️ 7.8/10
+1. [伊朗宣布关闭霍尔木兹海峡，航运中断](#item-1) ⭐️ 9.5/10
+2. [特朗普要求国会拨款数十亿用于可能的伊朗冲突](#item-2) ⭐️ 8.5/10
+3. [委内瑞拉地震致 162 人遇难，加拉加斯建筑倒塌](#item-3) ⭐️ 8.5/10
+4. [乌克兰攻入俄罗斯领土，战事重大升级](#item-4) ⭐️ 8.5/10
+5. [五眼联盟警告：AI 驱动的毁灭性攻击数月内可能发生](#item-5) ⭐️ 8.5/10
+6. [联合国调查发现以色列在加沙实施种族灭绝](#item-6) ⭐️ 8.5/10
+7. [中东危机与厄尔尼诺可能引发东南亚‘复合冲击效应’](#item-7) ⭐️ 8.5/10
+8. [美伊谈判因以色列与真主党袭击突然中止](#item-8) ⭐️ 8.5/10
+9. [伊朗与阿曼考虑对霍尔木兹海峡征收费用](#item-9) ⭐️ 8.5/10
+10. [委内瑞拉遭遇两次强震，恐数千人遇难](#item-10) ⭐️ 8.5/10
+11. [欧洲致命热浪引发“放弃常规”警告](#item-11) ⭐️ 8.5/10
+12. [美光和高通引发 4000 亿美元 AI 芯片股票大涨](#item-12) ⭐️ 8.5/10
+13. [近四分之一欧洲选民支持极右翼政党](#item-13) ⭐️ 8.2/10
+14. [石油价格因供应增加回落至冲突前水平](#item-14) ⭐️ 8.2/10
+15. [联合国调查：以色列蓄意针对加沙儿童构成种族灭绝](#item-15) ⭐️ 8.0/10
+16. [联合国调查发现巴勒斯坦儿童在加沙遭受种族灭绝和战争罪](#item-16) ⭐️ 8.0/10
+17. [美国 AI 股抛售引发全球市场下跌](#item-17) ⭐️ 8.0/10
+18. [法国录得史上最高温，全国 40 人溺水身亡](#item-18) ⭐️ 8.0/10
+19. [极右翼百万富翁赢得哥伦比亚总统大选](#item-19) ⭐️ 8.0/10
+20. [致命热浪笼罩巴黎和法国](#item-20) ⭐️ 8.0/10
+21. [特朗普支持的候选人赢得哥伦比亚总统大选](#item-21) ⭐️ 8.0/10
+22. [伊朗声称关闭霍尔木兹海峡，美伊协议遇阻](#item-22) ⭐️ 8.0/10
+23. [特朗普威胁若伊朗谈判破裂将在霍尔木兹海峡征收通行费](#item-23) ⭐️ 8.0/10
+24. [AI 成功解锁碳化赫库兰尼姆卷轴全文](#item-24) ⭐️ 8.0/10
+25. [Amazon 将再投 130 亿美元于印度云计算与 AI](#item-25) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [委内瑞拉发生两次大地震，数千人恐遇难](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakFMQnhGYTZ4Q2pqSDVfdkswbjdQM1A2cHFVeVdodzFyQjlCOUFCM1FqSl8xb2hDOU1UM2tDLUFVTjV5Q0Rkc0xiYTBGbkJPVTE5VkxEejJQTXZOZjRQeERYVGpjcW5CTFg1Z05BV2FkdVZsdEUyaVlnY1pSaU05bG14QTh5dmw4NEdVWHlQTmRlX3hvUVhzdkw5M2xza01rTjc2MUZwZzNJNmV1M19LektzMGV1UFFCRmIzZ2FETjA?oc=5) ⭐️ 9.0/10
+## [伊朗宣布关闭霍尔木兹海峡，航运中断](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVk92UEtzMTNiY3lnUklHTnpqUXpNSm9RZy10enFxd3BYRk1ndVhkWllWd3VuSmk0bS1nQ2p3S2ZVbXRjSjR1MjRWbVcyZnh0bmV5ZDlJM1lhWU9WRVJUX2loMzNlY0xrQU91MzliXzV0eFAzU2QzVGVxNmRYam9heGRfdzNhN3M5S0czeEpReU5QOFhSSTZSVTJINW1sUTFSOW8tQzZXdmFnNlB6UWc2dU1MTzR2a09j0gG-AUFVX3lxTE1ad2NDOXVjVTU3WV9raHhwQ2laT01nRlZJLWFPZXV6OFN4WUhfR2J1Nm1kMnRoMkJRY0gtRm5FNGRiTlRQTkVvUURRaDVFb09Rbl9BMGh6a0ZfR1NWYkNxd25pajRxZVpJY3dtYnFHYkF1MVhpMkxIMHpmeGZvQktPTm1TWVBMV05lbjl1UldpeUFMZlJMc29CTVpIQ1RDSHlSbmdPVlNsYmpVSTF6RU1vQi1DRHNpb0FrQV9RRXc?oc=5) ⭐️ 9.5/10
 
-据路透社报道，委内瑞拉发生两次大地震，导致数千人恐已遇难。 这是一场严重的人道主义危机，影响了一个本就面临经济和政治动荡的国家，可能使当地应对能力不堪重负。 地震被描述为“大地震”，死亡人数恐达数千，但初步报道未说明具体震级和精确位置。
+伊朗宣布关闭霍尔木兹海峡，实际上停止了通过这一战略水道的航运，据半岛电视台报道。 霍尔木兹海峡是全球石油运输的关键咽喉，其关闭可能严重破坏全球能源市场并加剧地区紧张局势。 这一声明立即导致航运停止，影响依赖该通道运输石油和货物的油轮和货船。
 
-rss · Reuters (Google News) · 6月25日 12:07
+rss · Al Jazeera (GN 7d) · 6月22日 05:23
 
-**背景**: 委内瑞拉位于加勒比板块边界，因此地震活动频繁。该国历史上曾发生过破坏性地震，例如 1812 年的加拉加斯地震。目前的经济危机和政治不稳定使当前的人道主义局势更加复杂。
+**背景**: 霍尔木兹海峡连接波斯湾与阿曼湾和阿拉伯海，全球约 20-30%的石油通过该海峡运输。伊朗毗邻海峡，此前曾因地缘政治压力威胁要关闭它。
 
-**标签**: `#earthquakes`, `#Venezuela`, `#natural disaster`, `#humanitarian crisis`, `#breaking news`
+**标签**: `#geopolitics`, `#oil`, `#Iran`, `#Strait of Hormuz`, `#shipping`
 
 ---
 
 <a id="item-2"></a>
-## [普京承认乌克兰袭击克里米亚，要求加强防御](https://www.reddit.com/r/worldnews/comments/1uecr0l/putin_admits_strikes_on_crimea_demands_defense/) ⭐️ 9.0/10
+## [特朗普要求国会拨款数十亿用于可能的伊朗冲突](https://news.google.com/rss/articles/CBMiWkFVX3lxTE94NGN6bTRUTG1KV3BldFVYZXIwUDY3a2NEaFhMZFJRMlVVLWxXS2lWQ1ZzcGZRNnZMY3NDRlFvdVBONUtJN2FNZmZic29jbTRQY1V3aURaUFh1QQ?oc=5) ⭐️ 8.5/10
 
-俄罗斯总统弗拉基米尔·普京公开承认乌克兰对克里米亚的袭击，并要求加强该半岛的防御措施。 此举标志着冲突的重大升级，克里米亚一直是俄罗斯领土主张的关键象征。这可能导致紧张局势加剧和潜在的军事回应。 报道中没有提供关于袭击或防御措施的具体细节。此次承认与之前官方淡化乌克兰在克里米亚成功的说法形成对比。
+美国总统特朗普正式要求国会拨款数十亿美元，用于应对与伊朗可能的军事行动，此前他与共和党议员在外交政策上的紧张局势不断升级。 这一请求表明美伊敌对可能升级，可能破坏中东稳定、扰乱全球石油市场并加剧国际安全担忧。 拨款金额尚未公开，但据报道达数十亿美元，且该请求是在特朗普与部分共和党人对其伊朗政策存在分歧之际提出的。
 
-reddit · r/worldnews · /u/DavidShaw90s · 6月24日 12:56
+rss · BBC (GN 7d) · 6月25日 09:06
 
-**背景**: 克里米亚于 2014 年被俄罗斯吞并，这一举动未获国际承认。自 2022 年全面入侵乌克兰以来，乌克兰多次袭击克里米亚的目标，包括军事设施和刻赤大桥。普京之前的言论常常否认或淡化乌克兰对该半岛的攻击。
+**背景**: 美伊关系紧张数十年，但 2018 年美国退出核协议后局势升级。特朗普推行极限施压政策，而部分共和党人对可能的军事干预持质疑态度。此次战争拨款请求是总统向国会提出的罕见要求。
 
-**标签**: `#Russia-Ukraine War`, `#Crimea`, `#Geopolitics`, `#Military Conflict`, `#Putin`
+**标签**: `#US politics`, `#Iran`, `#military funding`, `#geopolitics`
 
 ---
 
 <a id="item-3"></a>
-## [委内瑞拉地震致至少 164 人死亡，全球反应](https://www.aljazeera.com/news/2026/6/25/world-reacts-as-devastating-venezuela-earthquakes-kill-at-least-32?traffic_source=rss) ⭐️ 8.5/10
+## [委内瑞拉地震致 162 人遇难，加拉加斯建筑倒塌](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoVnh2a2VKYkxwd0NfNjR2enhJVmJjbl9LNUh4Wms5VG9tVUItX0xPTDRmNUJKbDg3cUtPRnBkdmotNzhXZm4zZVJ2NEwtbWYzenltcm5meTNiQQ?oc=5) ⭐️ 8.5/10
 
-两场地震袭击委内瑞拉，造成至少 164 人死亡和大面积破坏，全球领导人表达声援。 这场人道主义危机凸显了委内瑞拉基础设施的脆弱性以及对国际援助的迫切需求，也揭示了政治孤立国家在灾害应对方面的普遍挑战。 地震以双震形式发生，震级和震中尚未明确，但至少 164 人的死亡数字表明出现了严重的建筑物倒塌。
+一场大地震袭击委内瑞拉，造成至少 162 人死亡，首都加拉加斯多栋建筑倒塌。 这场灾难对委内瑞拉而言是一次重大人道主义危机，给本已有限的应急响应资源和基础设施带来巨大压力。 地震具体导致加拉加斯建筑倒塌，162 人的死亡人数表明受灾区建筑结构严重失效且人口密度高。
 
-rss · Al Jazeera · 6月25日 09:06
+rss · BBC (GN 7d) · 6月25日 10:53
 
-**背景**: 委内瑞拉长期面临政治经济危机，导致基础设施和应急响应能力薄弱。该国位于加勒比板块边界附近的地震活跃区，但大型地震并不常见，因此此次灾害尤为严重。
+**背景**: 委内瑞拉位于靠近板块边界的活跃地震带，因此易发地震。首都加拉加斯人口密集，许多建筑可能未达到现代抗震安全标准，加大了脆弱性。
 
-**标签**: `#natural disaster`, `#earthquake`, `#Venezuela`, `#humanitarian crisis`
+**标签**: `#Venezuela`, `#earthquake`, `#disaster`, `#casualties`, `#Caracas`
 
 ---
 
 <a id="item-4"></a>
-## [委内瑞拉地震后救援人员搜寻幸存者](https://www.aljazeera.com/video/newsfeed/2026/6/25/rescuers-pull-survivors-from-rubble-after-venezuela-earthquakes?traffic_source=rss) ⭐️ 8.5/10
+## [乌克兰攻入俄罗斯领土，战事重大升级](https://news.google.com/rss/articles/CBMirwFBVV95cUxPeDRNTTRGZTB6MlZraEk5Q3FJbGRQaVduRndIWUtFZjk3MjlQY1FiaGhRbXF1LXRBUXNERjJjblJFclJvRm9OX0VZTDFNMEtoWW05SGJLVWt2N3JkLVBjb1paS0p2NjNITEV0MDVzemRfTlN5TkdvUjhuQ0pBOGg1eHlVRjg5ZEtHajJob0V6aUxyNjRyaGI3QUp1X184aEZ0bnp3WERUWWZGZG1KRkpB0gG0AUFVX3lxTE9QYlhiOHptMGlnSEFHTnNlMmk3b0VMRjBDMDI4T0RYVzRRMU95dHNxVVVtd1czVk1IQWNGR19hQWpKbXZuek9KbUIxbnUwbFhzR2dVSUdOaW5GZTVVcVhjRloxTFpkaXBpRDE3Y0Z3MFIyaXRpbVl5bHlkdnVPdDJzX2thRUd4LUpYSGVsdVlJM2dNbWlyVE5RTUkyR2IzMjlFT2cwNVVkV0Y2SXNGajFyaHdvaw?oc=5) ⭐️ 8.5/10
 
-在两次强烈地震夷平建筑物并导致多人被困后，救援人员正在委内瑞拉进行大规模搜救行动。 这场灾难造成了广泛的破坏和人员伤亡，需要国际社会紧急关注并提供人道主义援助。 两次地震接连发生，导致建筑物倒塌，许多人被埋在瓦砾下。
+乌克兰对俄罗斯领土发动军事进攻，这是战争首次直接波及俄罗斯本土，乌克兰称这是其“首次获胜的机会”。 此次进攻改变了战争的战略态势，可能迫使俄罗斯保卫本国领土，并改变了冲突的叙事，对全球稳定具有重大地缘政治影响。 报道未详细说明进攻的具体规模和地点，但这代表着一次重大升级，乌克兰掌握了主动权，将战争恐怖直接带给俄罗斯民众。
 
-rss · Al Jazeera · 6月25日 07:32
+rss · Al Jazeera (GN 7d) · 6月25日 10:52
 
-**背景**: 委内瑞拉位于地震活跃区，这是由于板块运动所致。地震可能造成严重破坏，尤其是在基础设施脆弱的地区。
+**背景**: 自 2022 年 2 月以来，俄罗斯在乌克兰发动全面战争，战斗主要局限于乌克兰领土。此次进攻标志着局势逆转，乌克兰现在将战火带入俄罗斯境内，挑战了克里姆林宫关于战争远离俄罗斯本土的叙事。
 
-**标签**: `#Venezuela`, `#earthquake`, `#disaster`, `#rescue`, `#natural disaster`
+**标签**: `#Ukraine war`, `#Russia`, `#military offensive`, `#geopolitics`
 
 ---
 
 <a id="item-5"></a>
-## [委内瑞拉遭遇致命 7.5 级地震后宣布紧急状态](https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks) ⭐️ 8.5/10
+## [五眼联盟警告：AI 驱动的毁灭性攻击数月内可能发生](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklxTWJwcms1UlBCeUYyTGtNTGFtdEtGcmR3bEJJWHY2VHRpbUJqR3lUdW13RkF6MWJ4SklkWEtEYUlOLURENnRDNWNjN1dCclZVVGNOQVV0OEg5U0gyY2pGWDVDY3JUR3lKelJGSHdxUUM1UXY2UXFpa09idjN1Z0ZLNFZWX2dmR1FyaDRrM2NVY2trNFJwbjJHdWZuYUUtck1rWU9VRWZEbV9kT2hXOUNxbm1iU3FwTlp3dzkzdUhQdw?oc=5) ⭐️ 8.5/10
 
-2026 年 6 月 25 日，委内瑞拉在两次强震（震级分别为 7.2 和 7.5）一分钟内接连发生后宣布进入紧急状态，地震已造成至少 164 人死亡、971 人受伤。 此次 7.5 级地震是委内瑞拉自 1900 年以来遭遇的最强地震，导致加拉加斯多处建筑倒塌，死亡人数可能进一步上升，或使本已严峻的人道主义危机雪上加霜。 第一次地震震级为 7.2，约一分钟后发生 7.5 级地震。美国地质调查局确认了震级，临时领导人德尔西·罗德里格斯宣布进入紧急状态。
+五眼情报联盟发布了一份罕见的联合声明，警告称能够对政府和企业发动毁灭性网络攻击的先进人工智能模型可能在未来数月内投入使用。 这一警告突显了具有全球影响的紧迫国家安全威胁，可能加速国际社会规范人工智能开发及加强关键基础设施网络防御的努力。 该声明特别强调了人工智能支持的间谍、破坏和虚假信息活动的风险，指出甚至非国家行为者也可能将这类模型武器化。
 
-rss · The Guardian World · 6月25日 11:40
+rss · The Guardian (GN 7d) · 6月23日 01:09
 
-**背景**: 委内瑞拉位于加勒比板块边界，但强震相对罕见。该国多年来一直面临政治和经济危机，此次灾难给本已紧张的应急服务带来了巨大压力。
+**背景**: 五眼联盟是一个由澳大利亚、加拿大、新西兰、英国和美国组成的情报联盟，基于二战后的 UKUSA 协议。它是世界上最全面的间谍合作伙伴关系之一，可实现信号情报和网络安全方面的密切合作。该联盟很少发布公开警告，因此这份联合声明格外重要。
 
-**标签**: `#Venezuela`, `#earthquake`, `#natural disaster`, `#humanitarian crisis`, `#state of emergency`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Five_Eyes">Five Eyes - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/UKUSA_Agreement">UKUSA Agreement - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#cybersecurity`, `#Five Eyes`, `#national security`, `#technology`
 
 ---
 
 <a id="item-6"></a>
-## [委内瑞拉遭遇双震，164 人死亡](https://www.theguardian.com/us-news/2026/jun/25/first-thing-earthquakes-venezuela-death-toll) ⭐️ 8.5/10
+## [联合国调查发现以色列在加沙实施种族灭绝](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR1liQnhobGZsLW5Pc0YyYS1OOE1yUUwtdldMek5xRGtYTFBnVlFCVjFXanUyV2x5X1pLWDJLMUNlUzFuVWhnTkxleFNUaDFzVGZ4QUlfZTlEdEVUUnd3bTE3Q0RWSWRsaU85a0lfRlJzNWFiMkhPSG9OM2J3Y0RhYmV1OG9hY0VUcHZwSldla0N3LXcwWGVoUHdkSGtZR0tiMjVrNFNrQ0t2WG1PZ3Q4YkZ6b18yTjY1NGhUdkxETTJqYTA?oc=5) ⭐️ 8.5/10
 
-2026 年 6 月 24 日，委内瑞拉发生 7.2 级和 7.5 级两次强震，造成至少 164 人死亡、971 人受伤，政府宣布进入紧急状态。 这场重大自然灾害导致大量建筑倒塌和严重伤亡，引发全球人道主义关注，也凸显了委内瑞拉基础设施的脆弱性。 美国地质调查局报告称，7.5 级主震前 39 秒发生了 7.2 级前震；机场因严重损坏关闭，地铁和铁路服务暂停。
+据《卫报》报道，联合国一项调查得出结论，以色列通过蓄意针对加沙儿童犯下种族灭绝罪。 这一结论具有重大的人道和法律影响，可能影响国际政策以及针对冲突的问责措施。 调查特别强调了针对儿童的行为是种族灭绝意图的证据，不过完整报告尚未详细公开。
 
-rss · The Guardian World · 6月25日 11:45
+rss · The Guardian (GN 7d) · 6月23日 19:21
 
-**背景**: 委内瑞拉位于加勒比板块边界的地震活跃区。该国历史上曾发生过破坏性地震，但此次事件是近年来最强的一次。临时领导人宣布进入紧急状态以协调救援和救灾工作。
+**背景**: 自 2023 年 10 月以来，以色列-加沙冲突升级，双方伤亡惨重。根据国际法，种族灭绝是指意图全部或部分消灭一个民族、族裔、种族或宗教团体的行为。联合国调查机构是记录违反行为的调查机构，但缺乏直接执行权力。
 
-**标签**: `#Venezuela`, `#earthquake`, `#natural disaster`, `#state of emergency`, `#casualties`
+**标签**: `#Israel`, `#Gaza`, `#genocide`, `#UN inquiry`, `#children`
 
 ---
 
 <a id="item-7"></a>
-## [委内瑞拉接连发生两次强震，超 160 人遇难](https://www.france24.com/en/americas/20260625-venezuela-earthquakes-live-caracas-us-immediately-deploying-rescuers-marco-rubio) ⭐️ 8.5/10
+## [中东危机与厄尔尼诺可能引发东南亚‘复合冲击效应’](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEVtcG04MzBJMXBicTBtVGRPMU5wV0ZfU280b28zcG1EcXJSYTZueXNaNHBENGk3SmJVY2hoQ2JOTkQtMUlhb18wTmRQSlQxdndnLW1zMTZjM1dqTktGcmdBRkJaU1lwNVJmUXNoam5ub2ZIM2JxaHpiQjRJMHRyTVR6RnU2NVNzV0xHOHBhVVR5Q1hxSE1PdktGZU13MzB4RU45NWJ2TWxPZVVEYXc?oc=5) ⭐️ 8.5/10
 
-2025 年 6 月 25 日，委内瑞拉在一分钟内接连发生 7.2 级和 7.5 级两次强震，造成至少 164 人死亡、近 1000 人受伤。美国、中国和欧盟已承诺提供援助。 这是委内瑞拉一个多世纪以来遭遇的最强地震，在加拉加斯造成大量伤亡和广泛破坏。此次灾难凸显了该地区的地震脆弱性，并引发国际人道主义响应。 两次地震在一分钟内接连发生，震级分别为 7.2 级和 7.5 级。死亡人数已升至至少 164 人，近 1000 人受伤，救援行动正在进行中。
+《卫报》报道称，持续的中东危机与厄尔尼诺气候现象叠加，可能在东南亚引发‘复合冲击效应’，加剧粮食短缺和经济不稳定的风险。 这之所以重要，是因为东南亚拥有超过 6 亿人口，地缘政治冲突和极端气候同时冲击可能使该地区的粮食系统和经济不堪重负，可能引发人道主义危机。 文章指出，中东危机可能扰乱能源和化肥供应，而厄尔尼诺则可能降低该地区的农业产量；这些压力叠加可能导致严重的经济衰退和食品价格飙升。
 
-rss · France 24 · 6月25日 07:46
+rss · The Guardian (GN 7d) · 6月23日 05:30
 
-**背景**: 地震用里氏震级衡量，7 级以上为强震，可造成严重破坏。委内瑞拉位于加勒比板块和南美板块的交界处，属于地震活跃区，但如此强震罕见。
+**背景**: 厄尔尼诺是一种气候模式，使太平洋海水变暖并扰乱全球天气，常导致东南亚出现干旱或洪水。中东危机指持续冲突和地缘政治紧张，已推高油价并扰乱全球贸易路线。‘复合冲击’指多个独立冲击同时发生，其综合效应远超各冲击单独作用之和。
 
-**标签**: `#Venezuela`, `#earthquake`, `#disaster`, `#casualties`, `#humanitarian crisis`
+**标签**: `#geopolitics`, `#climate`, `#food security`, `#Asia`, `#crisis`
 
 ---
 
 <a id="item-8"></a>
-## [伊朗革命卫队拒绝霍尔木兹新航线；鲁比奥将会见海湾国家领导人](https://www.aljazeera.com/news/2026/6/25/iran-war-day-118-irgc-rejects-new-hormuz-route-rubio-to-meet-gcc-leaders?traffic_source=rss) ⭐️ 8.2/10
+## [美伊谈判因以色列与真主党袭击突然中止](https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHB3RFZKMG13LThSM2V1T2JlaElaSUlSM0NWeGJRLXRDa1gzLWJ1ZVpuNkxqWWI5ekpCYnA4ZWlWVm5FcGsyUm5DUm5NZlZ3eXoxU1JtVnVVdkYtQmFnRE9XUllzMHVWeXlGdV9SWGVfSnZpWkpyLWJkamsxOFhSRFlEWl9vdFBmN01LQw?oc=5) ⭐️ 8.5/10
 
-伊朗伊斯兰革命卫队（IRGC）拒绝了在霍尔木兹海峡开辟替代航线的提议，同时美国国务卿马可·鲁比奥计划在伊朗战争持续之际会见海湾合作委员会（GCC）领导人。 这一事态凸显了中东地区地缘政治紧张局势升级，威胁到通过战略要地霍尔木兹海峡的全球石油运输。此次外交会晤预示着地区联盟和美国战略可能发生转变。 IRGC 的拒绝发生在伊朗战争第 118 天，替代航线的具体细节尚未披露。鲁比奥与 GCC 领导人的会晤旨在协调对冲突的回应并确保能源运输稳定。
+这一进展严重破坏了缓解紧张局势的外交努力，增加了中东更广泛冲突的风险，可能影响全球安全和石油市场。 原本被视为罕见对话机会的谈判在袭击发生后立即被取消，且未设定新的恢复日期。
 
-rss · Al Jazeera · 6月25日 08:28
+rss · The Guardian (GN 7d) · 6月19日 04:48
 
-**背景**: 霍尔木兹海峡是全球石油运输的关键咽喉，约 20%的世界石油通过此处。伊朗此前曾威胁要破坏航运以报复制裁或军事行动。海湾合作委员会包括沙特阿拉伯、阿联酋、卡塔尔、巴林、科威特和阿曼，这些国家在地区安全和能源市场中扮演关键角色。
+**背景**: 美伊谈判一直断断续续，旨在解决伊朗核计划及地区影响力等问题。以色列与伊朗支持的黎巴嫩武装组织真主党之间长期存在冲突。最近的袭击涉及直接致命打击，标志着局势的显著升级。
 
-**标签**: `#geopolitics`, `#Iran war`, `#Strait of Hormuz`, `#diplomacy`, `#Middle East`
+**标签**: `#US-Iran relations`, `#Israel-Hezbollah`, `#Middle East conflict`, `#diplomacy`, `#geopolitics`
 
 ---
 
 <a id="item-9"></a>
-## [委内瑞拉民众讲述致命地震恐怖经历](https://www.aljazeera.com/news/2026/6/25/we-hugged-each-other-and-ran-venezuelans-recount-earthquake-horror?traffic_source=rss) ⭐️ 8.2/10
+## [伊朗与阿曼考虑对霍尔木兹海峡征收费用](https://news.google.com/rss/articles/CBMisAFBVV95cUxPaXU3bmV4YUtuUEZYbDMyYjB6dG9ZQ1NIRjB2bHhqQ3RtbkJFTjl0M3UwVTViSExsN05KT2tiV0tZd0VJNnhKbzVpdGJtWkpzSjdfQU1nNGdpVHlMYkdkM3l1MzVQeksyWEJzdEhSMFE5N3hLamVKUzI4aEYwMEhKbkFLeE4tSFlEMjlTNmtwUlA0eHBVNU9kaktENmU0YnU3ZU5WLVZPd2g5MVJqU0llUw?oc=5) ⭐️ 8.5/10
 
-两场强烈地震袭击委内瑞拉，导致数千人恐怕已遇难，并引发大规模恐慌和建筑倒塌。 这场灾难加剧了委内瑞拉持续的人道主义危机，并凸显了该国在经济崩溃背景下对自然灾害的脆弱性。 地震在短时间内接连发生，幸存者描述建筑物在他们周围倒塌的恐怖场景。具体震级和震中仍在评估中。
+据报道，伊朗和阿曼正在考虑对通过霍尔木兹海峡的船只征收‘海上服务费’，霍尔木兹海峡是关键的石油运输要道。 此举可能加剧地区地缘政治紧张局势，并扰乱全球能源市场，因为该海峡承载着全球约 20%的石油消费量。 该提案仍在讨论中，尚未公布具体费用金额或实施时间表。
 
-rss · Al Jazeera · 6月25日 07:46
+rss · France 24 (GN 7d) · 6月23日 15:30
 
-**标签**: `#earthquake`, `#Venezuela`, `#natural disaster`, `#humanitarian crisis`
+**背景**: 霍尔木兹海峡是伊朗和阿曼之间连接波斯湾和阿曼湾的狭窄水道。它是世界上最重要的石油运输咽喉要道，2022 年每日约有 1700 万桶石油通过。任何干扰或额外成本都可能显著影响油价和全球供应链。
+
+**标签**: `#Geopolitics`, `#Oil`, `#Strait of Hormuz`, `#Iran`, `#Oman`
 
 ---
 
 <a id="item-10"></a>
-## [美伊协议可能让内塔尼亚胡成为最大输家](https://news.google.com/rss/articles/CBMipgFBVV95cUxORzZCak1rSmduaE1FYXJIWFVlNFlLRHFhb2c0RW9vMUp4elF1N0tTa1lHVkR1NTdDZmdacE91TDlKcEcwYW8xeDUwQkFlV0ZJaXJwc0E2OG9hTHlWMVlZSHhmRnlHanczSnlBREtZM3pKYVR4V2ZLWXFkakh6akdmT3JBcW90VGttWG11N2cyaDZIdndneEJDWTU0SlNXamFhTmZEWHNn?oc=5) ⭐️ 8.2/10
+## [委内瑞拉遭遇两次强震，恐数千人遇难](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakFMQnhGYTZ4Q2pqSDVfdkswbjdQM1A2cHFVeVdodzFyQjlCOUFCM1FqSl8xb2hDOU1UM2tDLUFVTjV5Q0Rkc0xiYTBGbkJPVTE5VkxEejJQTXZOZjRQeERYVGpjcW5CTFg1Z05BV2FkdVZsdEUyaVlnY1pSaU05bG14QTh5dmw4NEdVWHlQTmRlX3hvUVhzdkw5M2xza01rTjc2MUZwZzNJNmV1M19LektzMGV1UFFCRmIzZ2FETjA?oc=5) ⭐️ 8.5/10
 
-这一事态突显了中东地缘政治格局的变化，可能改变美以关系，并影响地区稳定和核不扩散努力。 报道未说明协议的具体条款，但暗示美国正趋向与伊朗和解，这是内塔尼亚胡长期反对的。内塔尼亚胡的政治生存可能取决于他能否反对该协议。
+据路透社报道，委内瑞拉遭遇两次强震，造成大规模破坏，恐已有数千人遇难。 这场灾难构成严重的人道主义危机，需要国际社会紧急响应；高死亡人数凸显了该地区面对地震的脆弱性。 此次地震被描述为“强震”，恐已造成数千人遇难，受灾地区报告了严重破坏。
 
-rss · Reuters (Google News) · 6月24日 14:17
+rss · Reuters (GN 7d) · 6月25日 12:36
 
-**背景**: 美国与伊朗数十年来关系紧张，尤其是围绕伊朗核计划的争端不断升级。潜在协议可能涉及以核限制换取制裁解除，类似 2015 年的《联合全面行动计划》（JCPOA）。内塔尼亚胡一直强烈反对与伊朗接触，认为伊朗对以色列构成生存威胁。
+**背景**: 委内瑞拉位于加勒比板块边界附近的地震活跃区，历史上曾发生过大地震。该国基础设施薄弱且经济困难，往往加剧自然灾害的影响。
 
-**标签**: `#US-Iran relations`, `#Netanyahu`, `#geopolitics`, `#Middle East`, `#nuclear deal`
+**标签**: `#Earthquakes`, `#Venezuela`, `#Natural Disaster`, `#Humanitarian Crisis`
 
 ---
 
 <a id="item-11"></a>
-## [国际刑事法院建议解雇检察官卡里姆·汗](https://news.google.com/rss/articles/CBMisgFBVV95cUxPSUtRT0FxLXlMaFhhMGJ5RmdTTDE3SU1xUjlhOWYxMG5Uci05ZUY0N0JIU1h3UmphZ3hSX3RvYVIzVzRUU09lMTRQOHA0elIyTExlWDhNRXJMT0t3NFJKREVwMEgxQ2I0Wkdac3kzVkxjM2dDdGN3elVoNDBnSDhId1IwTHFDSzNHMG5BbDVoSTZ5ZHZBdi1zaGhlc1htRnRsc1JPbHJZd3ZsV0pSZ09DZE9R?oc=5) ⭐️ 8.2/10
+## [欧洲致命热浪引发“放弃常规”警告](https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2ZQY0JGRXNTMDE3X0o1dDR3Yy1Kd0pTbHUtXzE2N1dOWXQ4VE5fS1psTS02ZGs2d3J6YS1jNU93VXRsdEc1VGc4QndhN3lOQjR5aldtd3c1QXRVdGRHQUo4ZjZKYjZ0SVZNcVI4T1lUc09KbjY1Y09Ockd0V3VvQTJjQUZUX3BzWkl1RDJCS2ZldXlsOXBLYmh2VF9yUkFQeFFhRGhnZlVVeWJaOWk3YmxidnZWZGo2d1MxZmVn?oc=5) ⭐️ 8.5/10
 
-国际刑事法院（ICC）的理事机构已建议因不当性关系指控解雇首席检察官卡里姆·汗。 这一建议可能扰乱 ICC 正在进行的调查和审判，损害国际司法努力和法院的公信力。 该建议来自负责行政事务的 ICC 理事机构；最终决定将由缔约国大会作出。
+路透社报道，欧洲正在经历一场致命热浪，当局警告人们放弃日常作息以避免健康风险。该热浪已导致多人死亡，并预计将持续。 此次热浪凸显了与气候变化相关的极端天气事件日益频繁和严重，对欧洲公共健康构成严重威胁。放弃常规的警告突显了局势的严峻性以及采取适应性措施的必要性。 此次热浪导致多个欧洲国家出现破纪录高温，许多地区气温超过 40°C。弱势群体，尤其是老年人和有基础疾病的人群面临最大风险。
 
-rss · Reuters (Google News) · 6月24日 12:59
+rss · Reuters (GN 7d) · 6月25日 13:13
 
-**背景**: 国际刑事法院（ICC）是一个永久性法庭，负责起诉犯有灭绝种族罪、危害人类罪、战争罪和侵略罪的个人。首席检察官负责领导调查和起诉。针对如此高级官员的不当行为指控罕见且严重。
+**背景**: 热浪是指持续异常炎热的天气，常伴随高湿度，可能导致中暑和脱水等热相关疾病。欧洲近年来多次遭遇致命热浪，其中 2003 年的热浪估计导致超过 7 万人死亡。气候变化预计将增加此类事件的频率和严重性。
 
-**标签**: `#ICC`, `#Karim Khan`, `#misconduct`, `#international justice`
+**标签**: `#heatwave`, `#Europe`, `#health warning`, `#climate`, `#Reuters`
 
 ---
 
 <a id="item-12"></a>
-## [OpenAI 与博通联合发布首款定制 AI 芯片'Jalapeño'](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) ⭐️ 8.0/10
+## [美光和高通引发 4000 亿美元 AI 芯片股票大涨](https://news.google.com/rss/articles/CBMirgFBVV95cUxPdVFvNUJ1aWV0VTctX1lFeEFKM1dkVUVKWlhLT3FORGtCUlNnbWx1MFJnVEpNSzc3NjhQVWc3ekJyRDBwNHpaNERuMjl4NHR0Vjd1b0oyVGF0aHZVU19pb01jQ18yTmF3azh3d1pQeWhMbFlxd0pjM2NDR3VwbDNCWjJ4QXUta0lHYUFHOUIwaHZ6aUVJajNZZHNsaUxCUWRYTlgxczNwU3FzTDFVMkE?oc=5) ⭐️ 8.5/10
 
-OpenAI 发布了其首款定制推理芯片 Jalapeño，该芯片与博通合作开发。该芯片旨在提升 AI 推理性能并降低运行 OpenAI 模型的成本。 此举降低了 OpenAI 对英伟达 GPU 在推理方面的依赖，可能降低运营成本并提升效率。这也标志着 AI 硬件格局的重大转变，主要 AI 公司纷纷投资定制芯片以优化其特定工作负载。 该芯片是一款由台积电（TSMC）制造的应用专用集成电路（ASIC），而非英特尔。从设计到生产共耗时九个月，过程中使用了 OpenAI 自身的模型来加速部分设计和优化流程。
+美光和高通发布了乐观的财务预测，引发了市场上 AI 芯片股票总计 4000 亿美元的暴涨。 这次上涨突显了投资者对 AI 驱动半导体需求的巨大信心，影响了全球金融市场和更广泛的科技行业。 此次上涨由主要半导体公司美光和高通的积极指引引发，突显了 AI 相关芯片的强劲需求。
 
-hackernews · jamdesk · 6月24日 17:47 · [社区讨论](https://news.ycombinator.com/item?id=48663324)
+rss · Reuters (GN 7d) · 6月24日 23:50
 
-**背景**: AI 推理是运行已训练的神经网络模型进行预测的过程，与需要大量算力的训练不同。像 ASIC 这样的定制芯片针对特定任务进行了优化，相比通用 GPU 能提供更好的性能和能效。OpenAI 此举效仿了谷歌（TPU）和亚马逊（Inferentia）等公司为 AI 工作负载开发自研芯片的策略。
+**背景**: AI 芯片股票是指设计或制造用于人工智能应用（如数据中心和边缘设备）的半导体公司的股票。该板块的市场波动被广泛视为 AI 采用和经济趋势的指标。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://aws.amazon.com/ai/machine-learning/inferentia/">AI Chip - Amazon Inferentia - AWS</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区评论对 OpenAI 使用自身模型辅助芯片设计表达了好奇，有用户怀疑这只是营销噱头。其他人指出该芯片由台积电制造，并讨论了相关技术如 Taalas，后者将 LLM 权重直接烧录到硅片中以实现极致效率。
-
-**标签**: `#OpenAI`, `#AI chip`, `#Broadcom`, `#AI hardware`, `#inference`
+**标签**: `#AI`, `#semiconductors`, `#stock market`, `#finance`, `#technology`
 
 ---
 
 <a id="item-13"></a>
-## [联合国核机构负责人称将作为协议一部分视察伊朗核设施](https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
+## [近四分之一欧洲选民支持极右翼政党](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWZBdUJDdmlycEN5eElTUUlucFVCcVRrdXRacFRKUzFMY2p1NWdoZldNTkVycE9uek1Ua0wyRDZLT253MVVkem5Ld0JXS0ZJb3FsYlM2eUQ2Nm9IblZpRmhnaEhXX1NrYk12VmZQdE5mQzAtaWZVWXhfUVVVeFduWVNLdmFMcEZRb2RrVmFHLVo0WEZxOTRydmJucnpLNE40UnY5WUR3?oc=5) ⭐️ 8.2/10
 
-IAEA 负责人拉斐尔·格罗西宣布计划作为潜在协议的一部分视察伊朗核设施，但伊朗官员将准入条件与美国达成最终协议挂钩。
+《卫报》报道显示，近 25%的欧洲选民现在支持极右翼政党，标志着欧洲政治格局的重大转变。 这一趋势可能重塑欧洲政治，影响选举、政策制定以及欧盟的稳定，因为极右翼政党通常主张民族主义和反移民议程。 《卫报》的分析涵盖多个欧洲国家，显示极右翼支持率近年稳步上升，部分政党在全国民调中的支持率已超过 20%。
 
-rss · BBC World · 6月24日 17:31
+rss · The Guardian (GN 7d) · 6月24日 09:00
 
-**标签**: `#Iran`, `#IAEA`, `#nuclear`, `#diplomacy`, `#geopolitics`
+**背景**: 欧洲的极右翼政党通常强调国家主权、严格移民控制和欧洲怀疑主义。其崛起与对移民、经济不安全和民族认同的担忧有关。法国、德国、意大利和瑞典等国也出现了类似趋势。
+
+**标签**: `#European politics`, `#far-right`, `#voter trends`, `#political shift`
 
 ---
 
 <a id="item-14"></a>
-## [乌克兰推进使战争波及俄罗斯本土，普京暗示和谈](https://www.aljazeera.com/news/2026/6/25/as-ukraine-seizes-first-chance-to-win-war-horrors-come-home-to-russia?traffic_source=rss) ⭐️ 8.0/10
+## [石油价格因供应增加回落至冲突前水平](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkdDYmZFSTkwNFU4TGw0UDItS3RmdzdoR0hYUjRhYVUtaWRpWjFueDBQSUlQQklKZzdoTWJlQ1phYXRWaHMtZU5jNnNmOVZPalE2eExoaE5ESEJOcW9RN1l3VjFFTXNPLUJvdWFfTWVOTno3SEdlMHNJQjMxM0hJcXM1WHFtVG9NeHZtSGtZQlY4b21GZ3pqWjFn?oc=5) ⭐️ 8.2/10
 
-乌克兰抓住了所谓的“首次获胜机会”，导致俄罗斯内部危机，包括经济崩溃和图阿普谢有毒“黑雨”环境灾难。普京总统暗示可能进行和平谈判。 这可能是俄乌战争的一个转折点，可能重塑地缘政治格局、影响全球安全，并促使可能结束冲突的和谈。俄罗斯的经济和环境代价对能源市场和国际关系也有广泛影响。 有毒的“油雨”是由石油设施火灾产生的燃烧副产物导致的黑酸雨，沉积油性残留物和烟灰。图阿普谢环境灾害迫使居民留在室内，凸显了战争对俄罗斯领土的直接影响。
+由于中东产油国供应增加，石油价格已回落至近期地缘政治冲突前的水平。 这一下跌可能缓解全球通胀压力，降低消费者和企业的能源成本，并改变能源市场和地缘政治谈判的格局。 价格下跌反映了主要中东产油国产量的增加，可能抵消其他地区的供应中断；但市场稳定性仍然脆弱。
 
-rss · Al Jazeera · 6月25日 10:50
+rss · Reuters (GN 7d) · 6月25日 01:35
 
-**背景**: “黑雨”现象又称黑酸雨，是指降雨与工业场所火灾或爆炸产生的大量烟灰和有毒化合物混合后发生的现象。这种罕见的大气事件在近期的环境灾难中有所出现，例如 2026 年的图阿普谢事件，并对人群构成严重健康风险。
+**背景**: 石油价格对供需变化和地缘政治事件敏感。近期中东冲突曾推高价格。沙特阿拉伯和伊拉克等主要产油国增加供应使价格回落。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Tuapse_environmental_disaster">2026 Tuapse environmental disaster - Wikipedia</a></li>
-<li><a href="https://earth.org/explainer-what-is-black-rain-and-what-threats-does-it-pose-to-people-and-the-planet/">Black Rain: Definition, Causes and Threats</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Ukraine`, `#Russia`, `#war`, `#geopolitics`, `#peace talks`
+**标签**: `#oil prices`, `#Middle East supply`, `#energy markets`, `#global economy`, `#geopolitics`
 
 ---
 
 <a id="item-15"></a>
-## [中东供应增加，油价回到战前水平](https://www.aljazeera.com/news/2026/6/25/oil-prices-back-to-pre-war-levels-on-rising-middle-east-supply?traffic_source=rss) ⭐️ 8.0/10
+## [联合国调查：以色列蓄意针对加沙儿童构成种族灭绝](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbkNaaGZzczVIdXRFSW5wWVBuMkh1RUtSQXhDNDdsOFMwY0xZQjdFU0lTVk9zZVpoSTFvcE5zX3JSUDhVN2NzbVBrQWRUOWkyc05yeDVmSmthYm5PSlFfZHRDZF9sVzdUeTFLV0ktRkRGZFI3alpUZFVPVnZLR3VBcFRBLTJ6Q0ZfN1RJQ2pKaTMwQ0ltTldiZ2lOZnpjRFJ4T0lCT2pKVnF0ZUQyblZ3XzlCVljSAboBQVVfeXFMTUZaTTI5WEN4aG9NY2FsbU5kMzh6UUZjWHJWalRXWWRYTnNBZkl5UXRNNU5oOE5oLWxhblk0dm1NdmpuUk9WTktxX3JfdjdYb25STm5lSS02YkM2cTZodERpdmtwYUItRUZxQTVSMW1HWFhwZk1YTTJUZzVQOWZxdnBLRXdrWWR1OEtCVjlzRGI5QjhJTFUyY3c5QnZ0NnY0THRzeXdoTUwtb0doMGJGOWxodWZOMDNPUW5n?oc=5) ⭐️ 8.0/10
 
-由于中东供应增加，布伦特原油价格已跌至近期战争爆发前（2 月 27 日）以来的最低水平。 此次价格下跌标志着主要地缘政治紧张局势的缓和，对全球通胀、能源成本和经济稳定具有重要影响。 布伦特原油是全球关键基准油种，其价格现已回到冲突爆发前的水平，反映出供应状况的改善。
+联合国一项调查指控以色列在加沙蓄意针对儿童，作为种族灭绝行动的一部分。 这一指控可能对国际法和外交产生深远影响，可能加剧以色列的外交孤立，并改变公众对冲突的看法。 调查特别强调了对儿童攻击的蓄意性质，将其与附带伤亡区分开来。该报告基于联合国调查人员收集的证据。
 
-rss · Al Jazeera · 6月25日 10:04
+rss · Al Jazeera (GN 7d) · 6月23日 14:02
 
-**背景**: 原油价格受供应中断、地缘政治事件和 OPEC+决策的影响。布伦特混合油与 WTI 和迪拜原油是全球用于石油定价的三个主要基准之一。
+**背景**: 加沙冲突导致大量平民伤亡，其中儿童占很大比例。种族灭绝指控需要证明有意图摧毁某个群体。这项联合国调查增加了国际社会对以色列军事行动的法律审视。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Benchmark_(crude_oil)">Benchmark (crude oil) - Wikipedia</a></li>
-<li><a href="https://www.defconlevel.com/oil-prices">Crude Oil Prices Today - Brent, WTI & Global Benchmarks | Defcon Level</a></li>
-<li><a href="https://www.oilpriceapi.com/crude-oil-prices">Crude Oil Prices Today | WTI, Brent, Dubai & Urals</a></li>
-
-</ul>
-</details>
-
-**标签**: `#oil prices`, `#Brent crude`, `#Middle East supply`, `#global economy`, `#geopolitical tension`
+**标签**: `#Israel`, `#Gaza`, `#genocide`, `#UN inquiry`, `#children`
 
 ---
 
 <a id="item-16"></a>
-## [油价跌至伊朗战争前水平，油轮驶离霍尔木兹海峡](https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz) ⭐️ 8.0/10
+## [联合国调查发现巴勒斯坦儿童在加沙遭受种族灭绝和战争罪](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGZtTVBQUmdSZVA1aFBsaUVkUnFuY1ZOQjRxdkg1TFd2MkdhdVhGMjhOaDl1V1hnVTdjUXZ3eGZrSF9fb2VkeDU2QW9weDRHUlJpdUZPckhNaS1BNElEQTFwV1QtS0lneERadTZNd1ZzX3d6bkVmd0Nqa0tQczZFMHc4azF2azRrRnJXSkpyNWRKMFhaUEZTbmVPR05fLU1ZQzJtTU4teEvSAa4BQVVfeXFMUDlZdG1udnJibTJwd3lYN2dMaTJVZnNlQTBhc2NJWWlLOExPTF96dTNYVHg0bDk5WE92ZmZVV3k0TjVsc2RCMjYzaGdGRUliUWhiRTdNQ0E0ODU4Z0dqOTQ1WnZSc3lvcjNrSmlOaVdJLUN3bG1CZ3V2TEVuNzdjal9peFV1LTBBWTZsZmk3VWFMMVBHeGxPV3E2RVFHNm9fV05ndFVUeDhDaUx4cEJn?oc=5) ⭐️ 8.0/10
 
-周四，布伦特原油价格跌至每桶 72.24 美元，低于 2 月 28 日美以对伊朗发动导弹袭击前的水平，同时通过霍尔木兹海峡的油轮数量在 24 小时内翻了一番。 这表明伊朗冲突引发的能源紧张局势正在缓解，可能减轻全球通胀压力，并改善石油进口国的经济前景。 布伦特原油 6 月份已下跌超过 20%，船舶通行量达到 2 月底以来的最高水平，表明供应路线正在显著恢复。
+联合国一项调查得出结论，巴勒斯坦儿童在加沙冲突中成为种族灭绝和战争罪行的蓄意目标。 这一结论具有重大的国际法律和政治分量，可能导致问责措施并影响全球对冲突的看法。 该调查由联合国进行，特别关注针对儿童的违法行为，指责以色列进行系统性攻击。
 
-rss · The Guardian World · 6月25日 07:39
+rss · Al Jazeera (GN 7d) · 6月23日 11:59
 
-**背景**: 霍尔木兹海峡是全球石油运输的关键咽喉要道。2 月底，美国和以色列对德黑兰发动导弹袭击，引发油价飙升，原因是市场担心供应中断。近期油价下跌反映了随着油轮交通恢复正常，这些担忧正在消退。
+**背景**: 这项联合国调查是针对加沙冲突期间涉嫌违反国际法的持续调查的一部分。种族灭绝和战争罪是严重违反国际人道法的行为，针对儿童更是一项特别严重的指控。半岛电视台的报道突出了调查的结论。
 
-**标签**: `#oil prices`, `#Iran war`, `#Strait of Hormuz`, `#energy markets`, `#geopolitics`
+**标签**: `#Gaza`, `#UN inquiry`, `#war crimes`, `#genocide`, `#Palestinian children`
 
 ---
 
 <a id="item-17"></a>
-## [斯塔默承诺平稳过渡到伯纳姆政府](https://www.theguardian.com/politics/live/2026/jun/25/andy-burnham-rachel-reeves-keir-starmer-uk-politics-latest-news-updates) ⭐️ 8.0/10
+## [美国 AI 股抛售引发全球市场下跌](https://news.google.com/rss/articles/CBMihAFBVV95cUxQVy1rZHM1Z2Q3Y1p4QmJzaEZyeHB3U0l1RXQyeUxESmJBaHNSWC1BcXJJNTBQdnFOYjk5eXRhMm96VG0xTEdsNHdLUkJiUU5xZHV6MnQyTzNuS2NiYmhjdGdPUXNWcUx3Z0lCRFo2S2xhdnFYVUNJejFIdTAzaGhUb0xRaFg?oc=5) ⭐️ 8.0/10
 
-英国首相基尔·斯塔默承诺在向安迪·伯纳姆即将上任的政府过渡期间尽量减少干扰，同时财政大臣蕾切尔·里夫斯表示支持北海的罗斯班克和杰克道油气田许可证。 此次过渡标志着英国政治的重大转变，而对北海油气田的立场影响着国家能源政策和气候承诺。对罗斯班克和杰克道的决定将影响英国的能源安全和环境目标。 由 Equinor 运营的罗斯班克油田和杰克道油田面临环境方面的反对；里夫斯强调油气仍将是英国能源结构的一部分。批准被描述为准司法决定，并有竞选承诺尊重现有许可证。
+美国人工智能股票遭到大幅抛售，导致华尔街主要指数显著下跌，动荡也波及亚洲市场。 此次抛售反映出投资者对 AI 板块估值和盈利能力的担忧加剧，可能抑制整体科技股涨势，并影响全球经济信心。 抛售波及英伟达等主要 AI 相关股票及科技巨头，纳斯达克综合指数大幅下跌，跌势蔓延至日本和韩国等亚洲市场。
 
-rss · The Guardian World · 6月25日 12:33
+rss · The Guardian (GN 7d) · 6月22日 07:00
 
-**背景**: 罗斯班克油田位于设得兰群岛以西，是英国最大的未开发油田之一，预计 2026-2027 年开始生产。杰克道气田位于阿伯丁以东，于 2005 年发现。两者都面临法律挑战和环境抗议，因为其潜在的碳排放与英国的净零目标相冲突。
+**背景**: 近年来，由于生成式 AI 和大语言模型的热潮，AI 股票成为市场上涨的主要动力。然而，对估值过高、利率上升以及潜在监管障碍的担忧导致了波动性增加。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Rosebank_oil_and_gas_field">Rosebank oil and gas field - Wikipedia</a></li>
-<li><a href="https://www.equinor.com/energy/rosebank">Rosebank oil and gas field - Equinor</a></li>
-<li><a href="https://www.gem.wiki/Jackdaw_Oil_and_Gas_Field_(United_Kingdom)">Jackdaw Oil and Gas Field (United Kingdom) - Global Energy Monitor</a></li>
-
-</ul>
-</details>
-
-**标签**: `#UK politics`, `#government transition`, `#oil and gas`, `#Keir Starmer`, `#Rachel Reeves`
+**标签**: `#stock market`, `#AI`, `#sell-off`, `#global markets`, `#technology`
 
 ---
 
 <a id="item-18"></a>
-## [高通以 40 亿美元收购 AI 软件初创公司 Modular](https://news.google.com/rss/articles/CBMiggFBVV95cUxNUVdoZzZMMXY4aG1hb2ZsRnFKZF9oOU9CVl9QQ3hQa1cxQ1FpT3QxeXFnQy1PSWxvY0tBVmptczRQaW1zWlVrem96MVBFcDRaeE1zQy12eU96bXpMbG5yc2Q0WWdDcDBGbzg0dzFVdTNlVlMzTS1TenJJNE1qM0phMVRB?oc=5) ⭐️ 8.0/10
+## [法国录得史上最高温，全国 40 人溺水身亡](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEppaVdodDhpNThqVUxRVVM0SkhrZzNjekFqUzBGREJVMVBNb3J0ZGQyWkh6bDd1WjhURW5UdkdOdVFnektkSEhQUVJxUkoybkJ3NmNOUTBONFhHRFFwUVAyRS1yM1R0M3dmeU5IVjFiZzNmT1pha1JXN1FGeU5EdjFNc085LVE?oc=5) ⭐️ 8.0/10
 
-高通宣布以约 40 亿美元收购 AI 初创公司 Modular，交易将以向 Modular 股东发行最多 1920 万股股票的形式完成。 这笔收购标志着高通在强化 AI 软件能力（尤其是数据中心应用）方面的重大战略举措，并预示着 AI 芯片行业整合加速。 该交易对 Modular 的估值接近 40 亿美元，溢价显著；此前高通已于去年底收购了 RISC-V 服务器 CPU 初创公司 Ventana Micro Systems。
+法国在严重热浪中录得史上最高气温，同时全国发生 40 起溺水事件。 此次极端高温事件凸显了气候变化日益加剧的影响，对公共健康和安全带来直接后果。溺水事件则强调了热浪期间人们寻求降温时面临的额外风险。 此次最高温记录在夏季热浪期间测得；40 起溺水发生在多处水域，很可能与游泳人数增加及安全防范不足有关。
 
-rss · Reuters (Google News) · 6月24日 15:53
+rss · The Guardian (GN 7d) · 6月23日 13:44
 
-**背景**: 高通是一家以移动芯片闻名的领先半导体公司，但一直在向 AI 和数据中心市场多元化发展。Modular 是一家 AI 基础设施软件初创公司，提供针对硬件优化机器学习模型的工具。此次收购有助于高通在 AI 软件栈领域与英伟达和 AMD 等竞争对手抗衡。
+**背景**: 热浪是指持续时间长、温度异常偏高的天气，常引发健康紧急状况甚至死亡。在此期间，由于更多人参与水上活动，而有时缺乏有效监护或安全措施，溺水事件往往会激增。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://qz.com/qualcomm-acquires-modular-ai-software-stock-deal-062426">Qualcomm acquires AI software startup Modular for $3.9 billion</a></li>
-<li><a href="https://cryptobriefing.com/qualcomm-acquires-modular-ai-data-center/">Qualcomm acquires Modular to enhance AI capabilities for data...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Qualcomm`, `#Modular`, `#acquisition`, `#AI`, `#semiconductor`
+**标签**: `#climate`, `#extreme weather`, `#France`, `#heatwave`, `#drowning`
 
 ---
 
 <a id="item-19"></a>
-## [委内瑞拉发生 7.1 级地震](https://www.reddit.com/r/worldnews/comments/1uet2lp/magnitude_71_earthquake_rocks_venezuela/) ⭐️ 8.0/10
+## [极右翼百万富翁赢得哥伦比亚总统大选](https://news.google.com/rss/articles/CBMixAFBVV95cUxNbW16RGl3b0cyRFMxMTkxOUFzQk1mUExwQ1ZIeF9XNXhGenVKZlp4clh0dHVxS0dVRWZIcjUtdTFUTjc3WmRXdlNVX2p6ZGhfVklRUmJuWlEweWk2YnFKbm5MZ3dlLVRJcVc0eDV6MERhY0JoQjZFclp3Z29jYnphNkZ6d1A3LUE4TFFQclZuZEtBNlVHT1RQYWZ2SXVDb1I2cGxrUjBqUHNCd3RldGtsWUM4MEtvSUFXd1g4RUczTHNaRC0z?oc=5) ⭐️ 8.0/10
 
-委内瑞拉发生了一场 7.1 级地震，对该地区的人员和财产构成严重威胁。 这一重大地震事件可能造成广泛的破坏和人员伤亡，特别是在基础设施脆弱的地区。它突显了南美洲北部持续存在的地震风险。 此次地震发生在浅源，增加了地表破坏的可能性。具体的震中位置和影响细节仍在陆续公布中。
+据《卫报》报道，一位极右翼百万富翁以极其微弱的优势赢得了哥伦比亚总统大选。 这一结果标志着哥伦比亚政治的重大转变，可能对该国的和平进程、毒品政策以及与美国和邻国的关系产生影响。 选举结果极其接近，反映了哥伦比亚在决选前的深刻政治两极分化。
 
-reddit · r/worldnews · /u/ColoradoTripping · 6月24日 23:08
+rss · The Guardian (GN 7d) · 6月21日 22:51
 
-**背景**: 委内瑞拉位于加勒比板块和南美洲板块的交界处，地震活动频繁。7.1 级地震被归类为重大地震事件，能够在大范围内造成严重破坏。该地区的基础设施可能尚未完全准备好应对如此强大的地震。
+**背景**: 哥伦比亚历史上存在左翼游击队与右翼准军事组织之间的冲突，2016 年的和平协议至今仍有争议。极右翼候选人的当选可能改变该协议的执行，并转变该国的外交政策。
 
-**标签**: `#earthquake`, `#Venezuela`, `#natural disaster`, `#seismology`
+**标签**: `#Colombia`, `#election`, `#far-right`, `#geopolitics`, `#Latin America`
 
 ---
 
 <a id="item-20"></a>
-## [万斯在瑞士度假村与伊朗直接会谈](https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss) ⭐️ 7.8/10
+## [致命热浪笼罩巴黎和法国](https://news.google.com/rss/articles/CBMikwFBVV95cUxNN1dSbm1rOFkwZlFldjhrR3BYb2ZIWHhRTUg4Q1JtQS1ubjVlVW9RcEo4aFdMelVobVRpUjlweUY5R1JiMGRObnZhRHpnY2RsYjlGUUZuR0NNQXh5ZnlHamtLTWw4ZkF0cmt1SUUwakhXWHJpem4wVVZlM3UzdFE0NVNlQ2lUd0dEbURiakhqdEViZUE?oc=5) ⭐️ 8.0/10
 
-美国副总统万斯在瑞士一家豪华度假村与伊朗官员直接会谈，这是两国间罕见的高层外交接触。 美国高级官员与伊朗的直接接触可能标志着双边关系出现潜在转变，对核谈判、地区安全以及更广泛的中东地缘政治具有影响。 会谈在瑞士一处以承办敏感外交谈判闻名的度假村举行，双方均有高级代表参与。具体议程和结果尚未公开。
+一场致命热浪席卷巴黎和法国大部分地区，导致卫生紧急状况并可能造成人员伤亡。 这次热浪对数百万人的健康构成直接威胁，可能造成死亡，并给基础设施带来压力。同时也凸显了气候变化对极端天气事件的更广泛影响。 热浪被描述为‘致命’，并已席卷整个国家，巴黎尤受影响。摘要中未提及具体温度或持续时间。
 
-rss · BBC World · 6月23日 05:38
+rss · France 24 (GN 7d) · 6月23日 13:11
 
-**背景**: 美国与伊朗关系长期紧张，自 1980 年断交后，双方在伊朗核计划等问题上持续对立。副总统级别的直接会谈极为罕见，使此次会晤成为重要的外交事件。
+**背景**: 热浪是指长时间异常炎热的天气，常伴有高湿度，可能导致热相关疾病和死亡。弱势人群包括老年人、儿童和有基础疾病者。气候变化正在全球范围内增加热浪的频率和强度。
 
-**标签**: `#US-Iran relations`, `#diplomacy`, `#geopolitics`, `#Middle East`, `#US foreign policy`
+**标签**: `#heatwave`, `#climate change`, `#France`, `#public health`, `#extreme weather`
 
 ---
 
 <a id="item-21"></a>
-## [肯尼亚部长在藐视法庭裁决后叫停美国埃博拉设施](https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility) ⭐️ 7.8/10
+## [特朗普支持的候选人赢得哥伦比亚总统大选](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdTJVdmo1QnhEeFdHMEc2d0tsWkZfQXd4T0wwQmNVUGdEVDRZV2JPcnhRTkNqWmswMzZWQUx3ajFqVzBiSmRmQkRRNmpKTDhXSGhJaU1Zc2Y2cTA0bl9rTDkwUkp4Y3g5Zm9BdTBpeXl1WjdBdWg3d1FpRXZYdkpiSC1BQi01bWR6b21ROEZOQUVPM3EwTkxPYzFhQTRoZGdGVzJpQXJjMjZ2NXFsSXQtWDRUMnZXa3JBTFF1YlhhdjI?oc=5) ⭐️ 8.0/10
 
-肯尼亚卫生部长阿登·杜阿莱向法庭表示，他已下令停止美国运营的埃博拉检疫设施的建设准备工作，此前他因无视法院先前的命令而被判藐视法庭。 这一决定在刚果民主共和国持续爆发埃博拉疫情期间，加剧了肯尼亚与美国之间的外交和公共卫生冲突，可能阻碍国际应对努力并使双边关系紧张。 该设施原计划用于安置从刚果（金）埃博拉疫区撤离的美国公民，但自 2026 年 5 月公布以来，许多肯尼亚人反对，引发了致命抗议。
+受美国前总统特朗普支持的候选人德拉埃斯普里埃拉以极其微弱的优势赢得了哥伦比亚总统大选。 这一结果可能使哥伦比亚的外交政策更接近特朗普的立场，影响美哥关系，并对拉丁美洲地区政治产生潜在影响。 选举以极其微弱的差距决定胜负，特朗普的公开背书在竞选中发挥了显著作用。
 
-rss · The Guardian World · 6月23日 13:22
+rss · France 24 (GN 7d) · 6月22日 06:15
 
-**背景**: 埃博拉是一种致死率很高的严重病毒性疾病。刚果（金）正面临大规模疫情，促使美国计划在邻国肯尼亚为撤离的公民设立检疫站点。肯尼亚的反对源于担心病毒被带入本国以及主权问题。
+**背景**: 哥伦比亚是美国在拉丁美洲的重要盟友，双方在经济和安全领域关系密切。特朗普支持的候选人获胜，可能预示着政策转向保守，并与特朗普的外交政策重点保持一致。
 
-**标签**: `#Kenya`, `#Ebola`, `#US foreign policy`, `#public health`, `#legal`
+**标签**: `#Colombia`, `#election`, `#politics`, `#US relations`, `#Latin America`
 
 ---
 
 <a id="item-22"></a>
-## [委内瑞拉地震死亡人数升至 164 人，救援持续](https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest) ⭐️ 7.8/10
+## [伊朗声称关闭霍尔木兹海峡，美伊协议遇阻](https://news.google.com/rss/articles/CBMixwFBVV95cUxNX2NpUDAxcVB3RU1ZVS1zNFFyTGJHdi0tZUVMWUJtY3hHZ3hqZVk4eDZEbEp6bkFzMEd2dVhjT1V6QkZDekEza3pxeTQ3Z3lVdGk2clhpQWcyX0wwRVB2RmJ6OWp4SWFYREw0QndzbE5zaktWM1pUTTNLcnR3c2IxOUwyUUYzQ25WOXFKVnc3ZnB3NTdIa2RIYVlkYmZBRFFkdXBmd0Q2SkZ5ck5icXBDZEFhbHIwVjFjUFRORU5pNWFPNzdoNDFv?oc=5) ⭐️ 8.0/10
 
-一场强烈地震袭击委内瑞拉，死亡人数已升至 164 人，特别是在拉瓜伊拉和加拉加斯阿尔塔米拉地区正在进行密集的搜救行动。 这在一个已经面临经济崩溃和基础设施紧张的国家构成重大人道主义危机，引发国际关注，并突显了建筑质量差的脆弱性。 当局正在从其他地区调遣救援队前往受灾最严重的拉瓜伊拉地区，而志愿者和医护人员已聚集在加拉加斯倒塌的奥贝利斯科公寓楼等建筑现场搜寻幸存者。
+伊朗声称已关闭霍尔木兹海峡这一关键石油运输通道，此前美伊协议谈判在瑞士会谈前遇到障碍。 霍尔木兹海峡可能被关闭将扰乱全球约 20%的石油供应，对全球经济和地缘政治造成严重影响。 伊朗的说法尚未得到证实，但这加剧了与美国的紧张关系，且正值核协议谈判据报道遇到障碍之际，瑞士会谈被视为外交渠道。
 
-rss · The Guardian World · 6月25日 12:34
+rss · France 24 (GN 7d) · 6月20日 21:05
 
-**背景**: 委内瑞拉位于加勒比板块边界附近的地震活跃区，但大地震并不常见。该国持续的经济危机削弱了建筑规范和应急响应能力，加剧了自然灾害的影响。
+**背景**: 霍尔木兹海峡是位于伊朗和阿曼之间的狭窄水道，全球约 20%的石油通过此处运输。它一直是地缘政治紧张的热点，伊朗曾多次威胁在遭受制裁或军事行动时关闭该海峡。
 
-**标签**: `#Venezuela`, `#earthquake`, `#natural disaster`, `#humanitarian crisis`
+**标签**: `#geopolitics`, `#energy`, `#Iran`, `#Strait of Hormuz`, `#US`
 
 ---
 
 <a id="item-23"></a>
-## [Fortescue 因偏远矿区性骚扰面临集体诉讼](https://www.theguardian.com/business/2026/jun/25/fortescue-class-action-female-workers-remote-mining-sites-ntwnfb) ⭐️ 7.8/10
+## [特朗普威胁若伊朗谈判破裂将在霍尔木兹海峡征收通行费](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmRnNzZZTlFIU3ZXWXp0TEtUNy1nR0g0MnpFTkR1d1hlQWtiSWdKZ2JwM3luSml1MkdkcVZadGRpZHJiTEY4YnNpSkdYdm9vYWlBRWhlWFBIQTVTYjl1SnhuNzIxNi1mdFBpOEJHTXlBZ3FSTXU3VUdvVU1kOHQ1MGFzT0wyWFRWSFpvYTZjd1cxcUI5ZUxlcXRQcGlJbTdiU1RaTWM1eWZwaG9HSll1QlRRbEdQVl9Wd1hfYnlQU1JFdU1B?oc=5) ⭐️ 8.0/10
 
-Fortescue 偏远铁矿石矿场的女性工人在维多利亚联邦法院提起集体诉讼，指控系统性性骚扰、暴力和报复，包括一名女性在暗巷中被强行亲吻的事件。 该诉讼凸显了澳大利亚男性主导的采矿业中持续存在的职场安全和性别平等问题，可能为追究企业责任树立先例，迫使公司加强对偏远地区工人的保护。 该诉讼于 2026 年 6 月 25 日提交，其中包括一项具体指控：一名男子闯入女性在飞入飞出住宿区的房间，另一名女性则被男同事“嚎叫”。
+唐纳德·特朗普威胁称，如果与伊朗的核谈判破裂，美国将对通过霍尔木兹海峡的船只征收通行费，这加剧了这一关键石油通道的地缘政治紧张局势。 霍尔木兹海峡承载着全球约 20%的石油供应，因此任何干扰或新通行费都可能推高油价并冲击全球经济。这一威胁给已经脆弱的谈判增添了不确定性，并可能导致美伊直接对抗。 该威胁取决于谈判破裂；目前尚未公布具体的通行费金额或机制。与此同时，伊朗曾单独提议对油轮征收每桶 1 美元的通行费，并以非美元货币或稳定币支付。
 
-rss · The Guardian World · 6月25日 05:12
+rss · France 24 (GN 7d) · 6月20日 05:24
 
-**背景**: Fortescue 是澳大利亚最大的铁矿石开采商之一，许多工人以飞入飞出（FIFO）方式在西澳大利亚偏远矿区工作。FIFO 营地的居住条件孤立且监管有限，可能滋生骚扰环境。此次集体诉讼是采矿业一系列类似案件中的最新一起，引发了人们对系统性职场文化问题的关注。
+**背景**: 霍尔木兹海峡是伊朗和阿曼之间的一条狭窄水道，每日约有 2000 万桶石油通过。它长期以来一直是美伊紧张局势的爆发点。过去的封锁威胁曾导致油价飙升和军事对峙。
 
-**标签**: `#class-action`, `#sexual-harassment`, `#mining-industry`, `#workplace-safety`, `#australia`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nytimes.com/2026/03/27/world/middleeast/iran-hormuz-strait-tolls.html">Iran Moves to Formalize Toll Plan in Strait of Hormuz - The New York...</a></li>
+<li><a href="https://www.chosun.com/english/world-en/2026/04/03/ZROFD5DILBH7LLW4YBOH4BZGDM/">Iran Moves to Impose $1 Per Barrel Toll at Hormuz Strait</a></li>
+
+</ul>
+</details>
+
+**标签**: `#US-Iran relations`, `#Strait of Hormuz`, `#geopolitics`, `#oil`, `#Trump`
 
 ---
 
 <a id="item-24"></a>
-## [以色列前领导人威胁就'犹太恐怖主义'采取法律行动](https://www.theguardian.com/world/2026/jun/24/israeli-former-leaders-security-chiefs-legal-action-jewish-terrorism-west-bank) ⭐️ 7.8/10
+## [AI 成功解锁碳化赫库兰尼姆卷轴全文](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd0JnOGV1dVJ5X0xoUVF2NUx1Z0hBTm5jV2dzQTgtNnZNRnVOSWd4Q1VjeXl2cmg2V1JNU1lFYmlkQTlHV0c2MnFfR3N1eGxBYXBTMEFlMzF2blF4NkhBM2phWWloNkhrS0ppb3lXX1BubWRuQURuNDZicTdPZkpUVHBfN1ZiR0tMaktJcHpkWmp3bXpvYURyRHBpeS00ME9DbTZZMDdCT2tUc00?oc=5) ⭐️ 8.0/10
 
-数十名以色列前总理、安全负责人和文化界人士签署了一封泄露的信件，警告政府将对涉嫌支持犹太恐怖主义和在被占领西岸进行种族清洗的行为采取法律行动。 来自以色列精英阶层前所未有的内部批评可能迫使政府改变政策，并损害其国际声誉，凸显出在对待巴勒斯坦人问题上的深刻分歧。 这封泄露的信件是一份'最后警告'，签署者包括两位前总理、以色列所有安全机构的前负责人、前法官、一位诺贝尔奖得主和一位著名小说家等。
+首次利用人工智能完整破译了碳化的赫库兰尼姆卷轴，揭示了此前无法阅读的古希腊哲学著作。 这一突破使学者能够获取公元 79 年维苏威火山喷发埋没的唯一古典时代图书馆中的文本，可能彻底改变我们对古代哲学和文学的理解。 该卷轴由参与维苏威挑战赛的团队通过机器学习与计算机视觉技术，基于高分辨率 X 射线图像进行阅读，奖金总额超过 180 万美元。
 
-rss · The Guardian World · 6月24日 10:53
+rss · Reuters (GN 7d) · 6月25日 12:05
 
-**背景**: 自 1967 年以来，被占领的西岸一直处于以色列军事控制之下，定居点持续扩张，针对巴勒斯坦人的暴力事件不断发生。'犹太恐怖主义'指以色列定居者或极右翼团体针对巴勒斯坦人的暴力行为。以色列内部人士偶尔会批评政府政策，但如此广泛的精英联盟采取这一步骤实属罕见。
+**背景**: 赫库兰尼姆卷轴因火山喷发的高温碳化，变得极其脆弱，若不进行虚拟展开则无法阅读。研究人员利用 AI 将卷轴虚拟展平并检测墨迹模式，该技术此前应用于恩戈地卷轴。
 
-**标签**: `#Israeli politics`, `#West Bank`, `#Jewish terrorism`, `#ethnic cleansing`, `#legal action`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption">AI helps read papyrus scroll burnt to crisp during Vesuvius eruption | AI (artificial intelligence) | The Guardian</a></li>
+<li><a href="https://scrollprize.org/">Vesuvius Challenge — Reading the Herculaneum Scrolls with AI</a></li>
+<li><a href="https://www.nationalgeographic.com/premium/article/herculaneum-scrolls-vesuvius-challenge-seales">AI just deciphered part of the Herculaneum Scrolls | National Geographic</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 这一消息受到历史学家和技术专家的兴奋与赞誉，许多人强调其恢复失传著作的潜力。也有人提醒，文本可能仍然残缺不全，需要谨慎解读。
+
+**标签**: `#archaeology`, `#AI`, `#ancient texts`, `#Herculaneum`
 
 ---
 
 <a id="item-25"></a>
-## [欧盟因在布鲁塞尔接待塔利班代表团面临强烈反对](https://www.theguardian.com/world/2026/jun/23/eu-faces-fierce-criticism-plans-host-taliban-brussels) ⭐️ 7.8/10
+## [Amazon 将再投 130 亿美元于印度云计算与 AI](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjc3RVFRSkZPMUtsVDFNeXp3cFl5dnZ0LVVSd0x6VjlrdXdWUkxmZ1RsQUN4ZTZnbVlSb2w5bDd1UGhoOTBxcXlaS2Y5QkJJNWJJTDVoZkFXYUlLRl85MWhkcUFTcjVLT0VvbVlhaElvZFRqWWU1aXBYV1QzLW1fdnl6RnRXc05qeEZsRGVwYzFydzg?oc=5) ⭐️ 8.0/10
 
-这一外交接触可能使塔利班在国际上获得合法性，尽管其人权记录恶劣，尤其在女性权利方面，并可能削弱追究该政权责任的努力。 比利时外交部为该代表团签发了五张单日签证，代表团中包括被指控犯有反人类罪的领导人。塔利班已禁止六年级以上女孩上学，并将女性排除在公共生活之外。
+Amazon 宣布计划到 2030 年在印度云计算和人工智能基础设施上再追加投资 130 亿美元，以扩大在该地区的业务。 这笔投资表明 Amazon 对印度快速发展的数字经济有长期承诺，并使 AWS 在一个关键的新兴市场中与 Microsoft、Google 等竞争对手抗衡。 此次投资是在 Amazon 此前承诺的 65 亿美元基础上追加的，使得到 2030 年的总投资计划超过 190 亿美元。
 
-rss · The Guardian World · 6月23日 14:11
+rss · Reuters (GN 7d) · 6月25日 08:48
 
-**背景**: 塔利班于 2021 年 8 月夺取阿富汗政权，此后对妇女和女孩实施了严厉限制，禁止她们接受教育、工作和进入公共场所。欧盟此前一直奉行有条件接触的政策，但批评者认为，在布鲁塞尔接待代表团越过了红线，在未获得实质性让步的情况下就给予了合法性。
+**背景**: Amazon Web Services (AWS) 是全球最大的云计算平台，而印度是其增长最快的市场之一。印度政府一直鼓励对数字基础设施的投资，以促进经济增长和就业。
 
-**标签**: `#EU`, `#Taliban`, `#human rights`, `#diplomacy`, `#Afghanistan`
+**标签**: `#Amazon`, `#India`, `#cloud computing`, `#artificial intelligence`, `#investment`
 
 ---
